@@ -1,0 +1,10 @@
+
+.on{
+    cursor:pointer;
+    color: yellow;
+}
+.off{
+    color: black;
+    cursor: pointer;
+}
+
